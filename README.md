@@ -1,1 +1,1 @@
-# HRS
+# Hacker Rank Solutions
